@@ -31,14 +31,7 @@ import {
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-    apiKey: "AIzaSyB4XG89kSdaFR4zt_PI98IlN0x4aoNOPRU",
-    authDomain: "todoappbyreactjs.firebaseapp.com",
-    databaseURL: "https://todoappbyreactjs-default-rtdb.europe-west1.firebasedatabase.app",
-    projectId: "todoappbyreactjs",
-    storageBucket: "todoappbyreactjs.appspot.com",
-    messagingSenderId: "1004213403262",
-    appId: "1:1004213403262:web:ac8ab6d16b2fdc2f14e22f",
-    measurementId: "G-050R3XJ93V"
+    
 };
 
 // Initialize Firebase
